@@ -47,6 +47,5 @@ const customersSwiper = new Swiper(".customers__inner", {
 		prevEl: ".swiper-button-prev",
 	},
    spaceBetween: 30,
-	allowTouchMove: false
 });
 
