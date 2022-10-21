@@ -1,0 +1,16 @@
+%green-button {
+   display: inline-block;
+
+   color: $white;
+   background-color: $green;
+   border-radius: 5px;
+
+   font-family: 'Mulish';
+   font-weight: 700;
+
+   transition: all .2s ease-in-out;
+   &:hover {
+      color: $green;
+      background-color: transparent;
+   }
+}
