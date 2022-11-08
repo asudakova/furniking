@@ -1,5 +1,5 @@
 # furniking
 
-website for a restaurant using html, scss and js
+website for a furniture shop using html, scss and js
 
 https://asudakova.github.io/furniking/
